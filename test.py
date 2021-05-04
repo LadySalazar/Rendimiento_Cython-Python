@@ -1,3 +1,9 @@
+'''
+*Universidad Sergio Arboleda
+*Autores: Lady Geraldine Salazar Bayona
+Fecha:6 Mayo 2021
+Computación Paralela y Distribuida
+'''
 from functionE import rbf_network
 from Cy_functionE import Cy_rbf_network
 import numpy as np

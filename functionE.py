@@ -1,3 +1,9 @@
+'''
+*Universidad Sergio Arboleda
+*Autores: Lady Geraldine Salazar Bayona
+Fecha:6 Mayo 2021
+Computación Paralela y Distribuida
+'''
 from math import exp
 import numpy as np
 

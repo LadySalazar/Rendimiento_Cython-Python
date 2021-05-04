@@ -1,3 +1,9 @@
+'''
+*Universidad Sergio Arboleda
+*Autores: Lady Geraldine Salazar Bayona
+Fecha:6 Mayo 2021
+Computación Paralela y Distribuida
+'''
 #cython: language_level=3, boundscheck=False, wraparound=False, nonecheck=False
 cimport cython
 cdef extern from "math.h":
